@@ -1,1 +1,3 @@
-# react-projects-5-menu
+### Hotel Menu
+
+# Hotel Menu is the project which shows the menu of the different categories...
